@@ -413,9 +413,27 @@
 					(type none)
 				)
 			)
+			(pin unspecified line
+				(at 7.62 -7.62 90)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 		)
 		(symbol "RJP020N06T100_1_1"
-			(pin input line
+			(pin unspecified line
 				(at 0 0 0)
 				(length 2.54)
 				(name "1"
@@ -433,26 +451,8 @@
 					)
 				)
 			)
-			(pin passive line
+			(pin unspecified line
 				(at 7.62 7.62 270)
-				(length 2.54)
-				(name "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 7.62 -7.62 90)
 				(length 2.54)
 				(name "2"
 					(effects

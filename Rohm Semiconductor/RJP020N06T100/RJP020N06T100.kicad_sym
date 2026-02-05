@@ -418,7 +418,7 @@
 			(pin input line
 				(at 0 0 0)
 				(length 2.54)
-				(name "1"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -436,7 +436,7 @@
 			(pin passive line
 				(at 7.62 7.62 270)
 				(length 2.54)
-				(name "3"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -454,7 +454,7 @@
 			(pin passive line
 				(at 7.62 -7.62 90)
 				(length 2.54)
-				(name "2"
+				(name ""
 					(effects
 						(font
 							(size 1.27 1.27)

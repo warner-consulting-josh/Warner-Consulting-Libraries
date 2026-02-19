@@ -404,4 +404,15 @@
 		(uuid "2b8bf72d-9e95-4d0f-8190-175e7895260d")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Omron/XG4C/XG4C-1631/XG4C-1631 Step/XG4C_1631.step"
+		(offset
+			(xyz -8.89 -1.27 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -180)
+		)
+	)
 )

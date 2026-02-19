@@ -484,4 +484,15 @@
 		(uuid "7856f746-d67c-4621-9733-7de5962ee9c5")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/Josh/Desktop/Warner-Consulting-Libraries/Omron/XG4C/XG4C-2631/XG4C-2631 Step/XG4C-2631.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

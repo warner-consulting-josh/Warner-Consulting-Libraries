@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "XG4C-2631:XG4C-2631"
+		(property "Footprint" "XG4C-2631_Global:XG4C-2631"
 			(at 7.874 -73.152 0)
 			(effects
 				(font

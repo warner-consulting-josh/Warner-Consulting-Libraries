@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SMBJ5369B-TP_Global:SMBJ5369B-TP"
+		(property "Footprint" "SMBJ5369B-TP:SMBJ5369B-TP"
 			(at 0 0 0)
 			(effects
 				(font

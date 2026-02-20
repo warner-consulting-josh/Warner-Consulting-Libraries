@@ -9,7 +9,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "CR"
+		(property "Reference" "ZD"
 			(at 5.08 4.445 0)
 			(effects
 				(font

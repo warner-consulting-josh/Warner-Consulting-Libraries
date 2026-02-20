@@ -247,4 +247,15 @@
 		(uuid "2e05d150-da30-439e-a6af-27581accb70c")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Traco Power/THN_10_4811WIR/THN_10_4811WIR Step/THN_10-4811WIR.step"
+		(offset
+			(xyz 0 0 0.67)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
 )

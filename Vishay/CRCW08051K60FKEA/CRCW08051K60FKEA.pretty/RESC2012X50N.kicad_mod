@@ -51,13 +51,13 @@
 		)
 	)
 	(property "Resistance" "1.6kΩ"
-		(at 4.064 0 0)
+		(at 4.318 0 0)
 		(layer "F.SilkS")
 		(uuid "0fb1a295-507f-4ad4-8368-44dadef0b0fe")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.1)
+				(thickness 0.125)
 			)
 		)
 	)

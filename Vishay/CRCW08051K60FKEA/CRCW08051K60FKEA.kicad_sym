@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CRCW08051K60FKEA_Global:RESC2012X50N"
+		(property "Footprint" "CRCW08051K60FKEA:RESC2012X50N"
 			(at 0 0 0)
 			(effects
 				(font

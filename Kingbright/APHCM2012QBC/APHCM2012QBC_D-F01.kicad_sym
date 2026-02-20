@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "APHCM2012QBC:LED_APHCM2012QBC_D-F01"
+		(property "Footprint" "APHCM2012QBC_D-F01:LED_APHCM2012QBC_D-F01"
 			(at 0 0 0)
 			(effects
 				(font

@@ -4,18 +4,19 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 1.275 -2.51 0)
+		(at -3.048 0 0)
 		(layer "F.SilkS")
 		(uuid "bc14d4a1-ec6f-4343-962b-f39e4289f9b5")
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.125)
 			)
+			(justify right)
 		)
 	)
 	(property "Value" "LED_APHCM2012QBC_D-F01"
-		(at 12.07 2.51 0)
+		(at 2.032 0 0)
 		(layer "F.Fab")
 		(uuid "d8b60fd5-c575-474e-86fc-dbfcdf2c9b89")
 		(effects
@@ -23,6 +24,7 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify left)
 		)
 	)
 	(property "Datasheet" ""

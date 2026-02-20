@@ -348,4 +348,15 @@
 		(uuid "400cf845-37ed-4689-9ddf-faa989083bf9")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Amphenol/75869-130LF/75869-130LF Step/75869-130LF.STEP"
+		(offset
+			(xyz -8.85 -11.55 -3.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

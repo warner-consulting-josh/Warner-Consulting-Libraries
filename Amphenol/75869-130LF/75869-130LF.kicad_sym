@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "75869-130LF_Global:75869-130LF"
+		(property "Footprint" "75869-130LF:75869-130LF"
 			(at 9.652 -13.208 0)
 			(effects
 				(font

@@ -175,4 +175,15 @@
 		(uuid "ff082c39-b59a-4d62-99c5-c129a648dacd")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Kingbright/APHCM2012QBC/APHCM2012QBC Step/APHCM2012.STEP"
+		(offset
+			(xyz 0 0 0.05)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

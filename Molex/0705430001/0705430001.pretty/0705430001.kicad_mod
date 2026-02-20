@@ -303,4 +303,15 @@
 		(uuid "b262963e-9772-451e-8067-d7a46aab64cd")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Molex/0705430001/0705430001 Step/705430001.stp"
+		(offset
+			(xyz -1.27 0 8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

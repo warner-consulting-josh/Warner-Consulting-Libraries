@@ -345,4 +345,15 @@
 		(uuid "ba0267d9-2e01-4076-a057-e467f37e11de")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/TE Connectivity/1761681-1/1761681-1 Step/1761681-1.step"
+		(offset
+			(xyz 2.54 1.27 9.15)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

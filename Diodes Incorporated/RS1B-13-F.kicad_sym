@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RS1B-13-F_Global:RS1B-13-F"
+		(property "Footprint" "RS1B-13-F:RS1B-13-F"
 			(at 0 0 0)
 			(effects
 				(font

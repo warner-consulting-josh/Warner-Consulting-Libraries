@@ -16,13 +16,14 @@
 		)
 	)
 	(property "Value" "LED_APHCM2012QBC_D-F01"
-		(at 2.032 0 0)
+		(at -1.778 1.27 0)
 		(layer "F.Fab")
 		(uuid "d8b60fd5-c575-474e-86fc-dbfcdf2c9b89")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.3 0.3)
+				(thickness 0.05)
+				(bold yes)
 			)
 			(justify left)
 		)

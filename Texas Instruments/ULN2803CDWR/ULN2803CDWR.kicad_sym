@@ -24,7 +24,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "ULN2803CDWR_Global:SOIC127P1030X265-20N"
+		(property "Footprint" "ULN2803CDWR:SOIC127P1030X265-20N"
 			(at 24.13 -94.92 0)
 			(effects
 				(font

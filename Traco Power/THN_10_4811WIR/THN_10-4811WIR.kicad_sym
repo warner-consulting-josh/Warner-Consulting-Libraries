@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "THN_10-4811WIR:CONV_THN_10-4811WIR"
+		(property "Footprint" "THN_10_4811WIR:THN_10-4811WIR"
 			(at 0 0 0)
 			(effects
 				(font

@@ -255,4 +255,15 @@
 		(uuid "92e3fd0a-5040-4512-a658-78df30145a5b")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Recom Power/REC30K-4824S/REC30K-4824S Step/REC30K-4824S.step"
+		(offset
+			(xyz 0 0 0.57)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 90)
+		)
+	)
 )

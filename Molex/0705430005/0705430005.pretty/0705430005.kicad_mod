@@ -335,4 +335,15 @@
 		(uuid "25ba9f22-2db5-45d9-9399-963f01dc5b02")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Molex/0705430005/0705430005 Step/705430005.stp"
+		(offset
+			(xyz -6.35 0 8)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
 )

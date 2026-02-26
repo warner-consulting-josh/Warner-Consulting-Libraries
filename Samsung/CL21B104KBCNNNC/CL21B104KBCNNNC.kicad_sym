@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "CL21B104KBCNNNC_Global:CAP_CL21_SAM"
+		(property "Footprint" "CL21B104KBCNNNC:CAP_CL21_SAM"
 			(at 0 0 0)
 			(effects
 				(font

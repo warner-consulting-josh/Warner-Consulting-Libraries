@@ -1,14 +1,107 @@
-
-(footprint TP_5011 (layer F.Cu) (tedit 69A0D218)
-  (descr "")
-  (fp_text reference REF** (at 0.279825 -2.972945 0) (layer F.SilkS)
-    (effects (font (size 1.00122047244 1.00122047244) (thickness 0.15)))
-  )
-  (fp_text value TP_5011 (at 1.27385 2.85396 0) (layer F.Fab)
-    (effects (font (size 1.00302362205 1.00302362205) (thickness 0.15)))
-  )
-  (pad TP thru_hole circle (at 0.0 0.0) (size 2.4 2.4) (drill 1.6) (layers *.Cu *.Mask) (solder_mask_margin 0.102))
-  (fp_circle (center 0.0 0.0) (end 1.585 0.0) (layer F.SilkS) (width 0.127))
-  (fp_circle (center 0.0 0.0) (end 1.835 0.0) (layer F.CrtYd) (width 0.05))
-  (fp_circle (center 0.0 0.0) (end 1.585 0.0) (layer F.Fab) (width 0.127))
+(footprint "TP_5013"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.279825 -2.972945 0)
+		(layer "F.SilkS")
+		(uuid "4e59aae6-d871-4b60-b0a7-2d5eeda3d0a0")
+		(effects
+			(font
+				(size 1.00122 1.00122)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TP_5013"
+		(at 1.27385 2.85396 0)
+		(layer "F.Fab")
+		(uuid "f466b82e-03c6-4925-8c18-4ece3fb76781")
+		(effects
+			(font
+				(size 1.003024 1.003024)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ab13de4-28d5-40bf-be37-7a557dc6b9f0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c869feb5-1c89-4fd4-a55d-30a72ac00277")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 1.585 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "bd91744b-34f6-44cc-9558-c77f024cc5c7")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.835 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "923d9350-f298-4118-bca2-604da71eb700")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.585 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e1f1b61a-5f02-4ec7-8b12-53e2e2628b75")
+	)
+	(pad "TP" thru_hole circle
+		(at 0 0)
+		(size 2.4 2.4)
+		(drill 1.6)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "14eee957-e1ea-47fc-b709-f4470e8bb368")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Keystone Electronics/5013/5013 Step/5013.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )

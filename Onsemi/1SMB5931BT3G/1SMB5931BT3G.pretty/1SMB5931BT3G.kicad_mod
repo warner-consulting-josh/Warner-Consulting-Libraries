@@ -589,15 +589,15 @@
 		(uuid "10fa2210-0f9c-414b-af99-5ad6416d55b8")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/Warner_Consulting/MCC/SMBJ5369B-TP/SMBJ5369B-TP Step/SMBJ5369B-TP.step"
+	(model "${KIPRJMOD}/library/Warner_Consulting/Onsemi/1SMB5931BT3G/1SMB5931BT3G Step/1SMB5931BT3G.STEP"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 1.65)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -0 -0 -0)
+			(xyz -90 -0 -0)
 		)
 	)
 )

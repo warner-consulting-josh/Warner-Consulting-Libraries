@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "705430001 ")
 	(property "Reference" "REF**"
-		(at -1.27 3.81 0)
+		(at -5.588 3.81 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "932c1d96-10ad-4c5c-9913-0f44c9e7c817")
@@ -14,6 +14,7 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify left)
 		)
 	)
 	(property "Value" "0705430001"

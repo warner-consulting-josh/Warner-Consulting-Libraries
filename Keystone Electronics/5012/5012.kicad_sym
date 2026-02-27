@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "5011:TP_5011"
+		(property "Footprint" "5012:TP_5012"
 			(at 0 -7.874 0)
 			(effects
 				(font

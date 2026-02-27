@@ -16,15 +16,15 @@
 			)
 		)
 	)
-	(property "Value" "CONN_SDA-70543-xxxx_02_MOL"
-		(at -1.27 0 0)
+	(property "Value" "0705430001"
+		(at -3.556 -4.826 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "0e73bfb8-840a-48df-8f2c-f71e2be7b6dc")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 0.3 0.3)
+				(thickness 0.075)
 			)
 		)
 	)
@@ -275,7 +275,7 @@
 		(uuid "b9d03556-9c0c-47be-ac0c-78cf3a0c13a3")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -1.27 0 0)
+		(at -1.27 5.08 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "4bbe12b7-6662-4fbf-8c02-628541a2ffef")
@@ -303,7 +303,7 @@
 		(uuid "b262963e-9772-451e-8067-d7a46aab64cd")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/Warner_Consulting/Molex/0705430001/0705430001 Step/705430001.stp"
+	(model "${KIPRJMOD}/library/Warner_Consulting/Molex/0705430001/0705430001 Step/705430001.STEP"
 		(offset
 			(xyz -1.27 0 8)
 		)

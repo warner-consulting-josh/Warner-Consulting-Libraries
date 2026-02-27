@@ -18,15 +18,15 @@
 			)
 		)
 		(property "Value" "705430001"
-			(at 0 0 0)
+			(at 9.398 -6.604 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "0705430001_Global:0705430001"
-			(at 0 0 0)
+		(property "Footprint" "0705430001:0705430001"
+			(at 9.398 -10.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,7 +36,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/705430001?display=pdf"
-			(at 0 0 0)
+			(at 8.636 -12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -55,7 +55,7 @@
 			)
 		)
 		(property "Supplier" "Digikey"
-			(at 0 0 0)
+			(at 8.89 -14.732 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64,7 +64,7 @@
 			)
 		)
 		(property "MPN" "0705430001"
-			(at 0 0 0)
+			(at 9.144 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)

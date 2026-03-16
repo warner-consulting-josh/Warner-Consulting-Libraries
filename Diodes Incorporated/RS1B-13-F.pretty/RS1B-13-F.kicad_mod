@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "RS1B-13-F ")
 	(property "Reference" "REF**"
-		(at 0 -2.54 0)
+		(at 0 2.54 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "72379d0e-db29-4ac5-83d4-42fa84b85080")
@@ -16,8 +16,8 @@
 			)
 		)
 	)
-	(property "Value" "SMA_DIO"
-		(at 0 0 0)
+	(property "Value" "RS1B-13-F"
+		(at 0 -2.54 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "291b5356-c592-44a5-9f5b-5a06084bc464")
@@ -533,8 +533,19 @@
 		(layer "F.Fab")
 		(uuid "dfaa7029-1998-4fc0-a598-cb38b908156d")
 	)
+	(fp_circle
+		(center -1.778 0)
+		(end -2.286 -0.254)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "9c5441b0-396f-49cc-b4d5-869f92f6e4ad")
+	)
 	(fp_text user "${REFERENCE}"
-		(at 0 0 0)
+		(at 0 2.54 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "881e3b75-76cb-4c08-b353-cc66a8693bfd")

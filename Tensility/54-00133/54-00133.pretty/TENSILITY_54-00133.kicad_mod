@@ -212,6 +212,18 @@
 		(layer "F.Fab")
 		(uuid "a7b8b715-740d-413d-b4d1-7493a6997141")
 	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3.556 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "13f4c36b-36e9-4bf1-bbc1-ff7ee8c2c669")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+		)
+	)
 	(pad "A" thru_hole oval
 		(at 0 -5.9)
 		(size 2.616 1.308)

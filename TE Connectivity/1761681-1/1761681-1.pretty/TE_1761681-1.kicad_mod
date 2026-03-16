@@ -4,7 +4,8 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 2.54 -7.112 0)
+		(at 10.414 -7.112 180)
+		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "00e0c355-8af1-4108-8016-27b5083c8472")
 		(effects
@@ -12,10 +13,11 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify left)
 		)
 	)
 	(property "Value" "TE_1761681-1"
-		(at 11.43 -2.286 270)
+		(at 2.54 2.032 0)
 		(layer "F.Fab")
 		(uuid "5e95ab1d-85dc-40b1-8455-2e6b2282eb3a")
 		(effects
@@ -289,6 +291,17 @@
 		)
 		(layer "F.Fab")
 		(uuid "40e696a3-c4b4-4f6f-a708-86a7ac04e904")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.54 -4.572 0)
+		(layer "F.Fab")
+		(uuid "023811c4-397c-4fbe-81aa-ed3708f353da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+		)
 	)
 	(pad "1" thru_hole rect
 		(at 0 0)

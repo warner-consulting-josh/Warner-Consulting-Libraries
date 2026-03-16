@@ -554,25 +554,25 @@
 		(uuid "c820a1bd-8ff0-4cec-9563-b04eefb77f5f")
 	)
 	(fp_circle
-		(center 0 0)
-		(end 0.0762 0)
+		(center -2.032 0)
+		(end -2.286 -0.508)
 		(stroke
-			(width 0.0254)
+			(width 0.1)
 			(type solid)
 		)
-		(fill no)
+		(fill yes)
 		(layer "F.Fab")
-		(uuid "2b12ecc2-eafe-4ad8-bfd0-5999a6335d98")
+		(uuid "56fa8ff5-cded-47d9-9a97-c6ae9e4c3fcf")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 3.048 0)
+		(at 0 -3.048 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "66ade8fb-13b7-4fd1-88c9-cb8935d1db43")
 		(effects
 			(font
-				(size 0.3 0.3)
-				(thickness 0.075)
+				(size 1 1)
+				(thickness 0.125)
 			)
 		)
 	)

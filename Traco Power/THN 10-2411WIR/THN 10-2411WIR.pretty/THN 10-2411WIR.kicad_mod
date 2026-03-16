@@ -200,6 +200,28 @@
 		(layer "F.Fab")
 		(uuid "7374bca0-44a8-44e3-a98d-9cff21f26b47")
 	)
+	(fp_circle
+		(center -2.54 -13.716)
+		(end -2.794 -13.97)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "46a8c41c-a932-48be-9c2e-1c19024e8a72")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "239a88bf-0b25-472d-b449-d3c54e373a52")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
 	(pad "1" thru_hole rect
 		(at -2.54 -10.16)
 		(size 1.8 1.8)

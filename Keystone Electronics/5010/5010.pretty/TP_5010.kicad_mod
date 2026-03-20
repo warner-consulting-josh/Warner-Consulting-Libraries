@@ -83,6 +83,18 @@
 		(layer "F.Fab")
 		(uuid "236121af-ad37-4f57-8443-f4647aa5d719")
 	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -2.54 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1b1796a6-5928-4338-b832-6733948ac5d2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.125)
+			)
+		)
+	)
 	(pad "TP" thru_hole circle
 		(at 0 0)
 		(size 2.4 2.4)

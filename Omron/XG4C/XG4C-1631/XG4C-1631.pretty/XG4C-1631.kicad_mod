@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(tags "XG4C-1631 ")
 	(property "Reference" "REF**"
-		(at -8.89 7 0)
+		(at -23.114 7 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "0f0d38b6-5838-4e15-a24a-2cf49278e81d")
@@ -14,10 +14,11 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
+			(justify left)
 		)
 	)
-	(property "Value" "CONN_XG4C-1631_OMR"
-		(at -8.89 1.27 0)
+	(property "Value" "XG4C-1631"
+		(at -8.89 -1.778 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "813581e7-c392-4199-86ae-48130e72dd95")
@@ -264,7 +265,7 @@
 		(uuid "662ae429-8b93-4d4c-96a0-4384c39cd572")
 	)
 	(fp_text user "${REFERENCE}"
-		(at -8.89 1.27 0)
+		(at -8.89 4.572 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "c6618728-6788-4a28-a892-28786d749e94")

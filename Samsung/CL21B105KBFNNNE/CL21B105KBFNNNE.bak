@@ -23,11 +23,10 @@
 				(font
 					(size 1.524 1.524)
 				)
-				(hide yes)
 			)
 		)
-		(property "Footprint" "CL21B105KBFNNNE:CAP_CL21_SAM"
-			(at 3.302 -5.842 0)
+		(property "Footprint" "CL21B104KBCNNNC:CAP_CL21_SAM"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +36,7 @@
 			)
 		)
 		(property "Datasheet" "CL21B104KBCNNNC"
-			(at 2.54 -7.874 0)
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53,14 +52,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "Capacitance" " 1 µF"
-			(at 3.81 -3.556 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "ki_keywords" "CL21B104KBCNNNC"

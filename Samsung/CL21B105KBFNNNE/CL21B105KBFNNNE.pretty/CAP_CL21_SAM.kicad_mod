@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CAP_CL21_SAM"
+	(property "Value" "CL21B105KBFNNNE"
 		(at 0 1.27 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -301,7 +301,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Josh/Desktop/Warner-Consulting-Libraries/Samsung/CL21B104KBCNNNC/CL21B104KBCNNNC Step/CAP_CL21_SAM.step"
+	(model "${KIPRJMOD}/library/Warner_Consulting/Samsung/CL21B105KBFNNNE/CL21B105KBFNNNE Step/CAP_CL21_SAM.step"
 		(offset
 			(xyz 0 0 0)
 		)

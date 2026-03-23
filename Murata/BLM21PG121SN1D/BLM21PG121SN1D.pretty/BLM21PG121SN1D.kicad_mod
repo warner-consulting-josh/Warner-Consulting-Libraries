@@ -1,4 +1,4 @@
-(footprint "CAP_CL21_SAM"
+(footprint "BLM21PG121SN1D"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CAP_CL21_SAM"
+	(property "Value" "BLM21PG121SN1D"
 		(at 0 1.27 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -301,7 +301,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Josh/Desktop/Warner-Consulting-Libraries/Samsung/CL21B104KBCNNNC/CL21B104KBCNNNC Step/CAP_CL21_SAM.step"
+	(model "${KIPRJMOD}/library/Warner_Consulting/Murata/BLM21PG121SN1D/BLM21PG121SN1D Step/BLM21PG121SN1D.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -589,7 +589,7 @@
 		(uuid "10fa2210-0f9c-414b-af99-5ad6416d55b8")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/Warner_Consulting/MCC/SMBJ5369B-TP/SMBJ5369B-TP Step/SMBJ5369B-TP.step"
+	(model "${KIPRJMOD}/library/Warner_Consulting/Littlefuse/SMBJ18A/SMBJ18A Step/SMBJ18A.step"
 		(offset
 			(xyz 0 0 0)
 		)

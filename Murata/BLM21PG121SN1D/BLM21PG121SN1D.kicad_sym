@@ -9,7 +9,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "L"
+		(property "Reference" "FB"
 			(at 6.985 5.08 0)
 			(effects
 				(font
@@ -18,7 +18,7 @@
 			)
 		)
 		(property "Value" "BLM21PG121SN1D"
-			(at 6.985 -2.54 0)
+			(at 6.858 -8.89 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -56,10 +56,10 @@
 			)
 		)
 		(property "Impedance" "120 Ω @ 100 MHz"
-			(at 7.366 -2.54 0)
+			(at 7.366 -2.032 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.889 0.889)
 				)
 			)
 		)

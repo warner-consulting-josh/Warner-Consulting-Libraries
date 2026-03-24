@@ -55,7 +55,7 @@
 				(hide yes)
 			)
 		)
-		(property "Impedance" "120 Ω"
+		(property "Impedance" "120 Ω @ 100 MHz"
 			(at 7.366 -2.54 0)
 			(effects
 				(font

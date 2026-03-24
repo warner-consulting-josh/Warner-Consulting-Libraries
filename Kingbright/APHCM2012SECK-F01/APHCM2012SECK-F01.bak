@@ -25,7 +25,6 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "APHCM2012SURCK-F01:LED_APHCM2012SURCK-F01"
@@ -94,14 +93,6 @@
 				)
 				(justify bottom)
 				(hide yes)
-			)
-		)
-		(property "Color" "Red"
-			(at 0 -2.794 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(symbol "APHCM2012SURCK-F01_0_0"

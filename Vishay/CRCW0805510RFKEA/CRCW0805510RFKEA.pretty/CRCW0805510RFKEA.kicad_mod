@@ -1,4 +1,4 @@
-(footprint "CRCW0805100RFKEA"
+(footprint "CRCW0805510RFKEA"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -17,7 +17,7 @@
 			(justify right)
 		)
 	)
-	(property "Value" "CRCW0805100RFKEA"
+	(property "Value" "CRCW0805510RFKEA"
 		(at 0 1.27 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -53,7 +53,7 @@
 			)
 		)
 	)
-	(property "Resistance" "100Ω"
+	(property "Resistance" "510Ω"
 		(at 2.032 -0.03 0)
 		(layer "F.SilkS")
 		(uuid "b66f67f3-6f0e-445d-ba4b-924077cb2acd")

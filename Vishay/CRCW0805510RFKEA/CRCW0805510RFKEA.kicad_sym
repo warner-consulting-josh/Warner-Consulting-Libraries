@@ -2,7 +2,7 @@
 	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "9.0")
-	(symbol "CRCW0805100RFKEA"
+	(symbol "CRCW0805510RFKEA"
 		(pin_names
 			(offset 0.254)
 		)
@@ -17,8 +17,8 @@
 				)
 			)
 		)
-		(property "Value" "CRCW0805100RFKEA"
-			(at 6.35 -3.81 0)
+		(property "Value" "CRCW0805510RFKEA"
+			(at 5.842 -5.588 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -26,7 +26,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "CRCW0805100RFKEA:CRCW0805100RFKEA"
+		(property "Footprint" "CRCW0805510RFKEA:CRCW0805510RFKEA"
 			(at 3.048 -9.398 0)
 			(effects
 				(font
@@ -55,7 +55,7 @@
 				(hide yes)
 			)
 		)
-		(property "Resistance" "100 Ω"
+		(property "Resistance" "510 Ω"
 			(at 5.842 -3.556 0)
 			(effects
 				(font
@@ -63,7 +63,7 @@
 				)
 			)
 		)
-		(property "ki_keywords" "CRCW0805100RFKEA, res"
+		(property "ki_keywords" "CRCW0805510RFKEA, res"
 			(at 0 0 0)
 			(effects
 				(font
@@ -81,7 +81,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CRCW0805100RFKEA_1_1"
+		(symbol "CRCW0805510RFKEA_1_1"
 			(polyline
 				(pts
 					(xy 2.54 0) (xy 3.175 1.27)
@@ -203,7 +203,7 @@
 				)
 			)
 		)
-		(symbol "CRCW0805100RFKEA_1_2"
+		(symbol "CRCW0805510RFKEA_1_2"
 			(polyline
 				(pts
 					(xy -1.27 8.255) (xy 1.27 9.525)

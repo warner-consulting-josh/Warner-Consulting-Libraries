@@ -1,4 +1,4 @@
-(footprint "CRCW0805150RFKEA"
+(footprint "CRCW0805100KFKEA"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -17,7 +17,7 @@
 			(justify right)
 		)
 	)
-	(property "Value" "CRCW0805150RFKEA"
+	(property "Value" "CRCW0805100KFKEA"
 		(at 0 1.27 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -53,7 +53,7 @@
 			)
 		)
 	)
-	(property "Resistance" "150Ω"
+	(property "Resistance" "100kΩ"
 		(at 2.032 -0.03 0)
 		(layer "F.SilkS")
 		(uuid "b66f67f3-6f0e-445d-ba4b-924077cb2acd")
@@ -193,7 +193,7 @@
 		(uuid "c9d7f7c2-0989-427f-8fbd-f42281058662")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/Warner_Consulting/Vishay/CRCW0805150RFKEA/CRCW0805150RFKEA Step/CRCW0805150RFKEA.step"
+	(model "${KIPRJMOD}/library/Warner_Consulting/Vishay/CRCW0805100KFKEA/CRCW0805100KFKEA Step/CRCW0805100KFKEA.step"
 		(offset
 			(xyz 0 0 0)
 		)

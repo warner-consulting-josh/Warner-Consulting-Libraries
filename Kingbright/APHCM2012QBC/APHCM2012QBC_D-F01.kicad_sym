@@ -19,16 +19,17 @@
 			)
 		)
 		(property "Value" "APHCM2012QBC_D-F01"
-			(at -3.556 -3.302 0)
+			(at 0 -5.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify bottom)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "APHCM2012QBC_D-F01:LED_APHCM2012QBC_D-F01"
-			(at 0 0 0)
+			(at 0.254 -10.922 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -56,7 +57,7 @@
 			)
 		)
 		(property "PARTREV" "V.10A"
-			(at 0 0 0)
+			(at 0 -15.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66,7 +67,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 0 0 0)
+			(at 0 -7.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -76,7 +77,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "0.4mm"
-			(at 0 0 0)
+			(at 0 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -86,13 +87,21 @@
 			)
 		)
 		(property "MANUFACTURER" "Kingbright"
-			(at 0 0 0)
+			(at 0 -13.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify bottom)
 				(hide yes)
+			)
+		)
+		(property "Color" "Blue"
+			(at 0 -2.794 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(symbol "APHCM2012QBC_D-F01_0_0"

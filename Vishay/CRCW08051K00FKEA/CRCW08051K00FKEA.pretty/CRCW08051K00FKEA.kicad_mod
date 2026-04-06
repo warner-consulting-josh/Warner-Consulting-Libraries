@@ -1,4 +1,4 @@
-(footprint "RESC2012X50N"
+(footprint "CRCW08051K00FKEA"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -15,7 +15,7 @@
 			(justify right)
 		)
 	)
-	(property "Value" "RESC2012X50N"
+	(property "Value" "CRCW08051K00FKEA"
 		(at -1.778 1.3 0)
 		(layer "F.Fab")
 		(uuid "e52ccf4e-f227-4257-b0ac-d6a36d043d46")

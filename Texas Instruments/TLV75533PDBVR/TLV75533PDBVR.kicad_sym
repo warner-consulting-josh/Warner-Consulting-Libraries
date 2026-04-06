@@ -27,7 +27,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "TLV75533PDBVR:SOT95P280X145-5N"
+		(property "Footprint" "TLV75533PDBVR:TLV75533PDBVR"
 			(at 0 0 0)
 			(effects
 				(font

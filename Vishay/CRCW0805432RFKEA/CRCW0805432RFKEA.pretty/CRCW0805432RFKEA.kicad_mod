@@ -12,7 +12,7 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
+				(thickness 0.125)
 			)
 			(justify right)
 		)
@@ -54,7 +54,8 @@
 		)
 	)
 	(property "Resistance" "432Ω"
-		(at 2.032 -0.03 0)
+		(at 1.778 0 0)
+		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "b66f67f3-6f0e-445d-ba4b-924077cb2acd")
 		(effects

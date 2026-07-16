@@ -2444,4 +2444,15 @@
 		(uuid "21b1d7c6-ae0f-43d0-a10d-7a5820410018")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Texas Instruments/DRV8874PWPR/DRV8874PWPR Step/DRV8874PWPR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

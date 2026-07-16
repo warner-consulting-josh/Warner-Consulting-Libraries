@@ -81,6 +81,16 @@
 		(uuid "170f4015-334b-4de6-b12a-e00a85b52e2f")
 	)
 	(fp_line
+		(start -0.762 -0.4695)
+		(end -0.762 0.4695)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bfea3e09-e241-4821-bd28-5e35afd53f60")
+	)
+	(fp_line
 		(start -0.7 -1.559)
 		(end 0.7 -1.559)
 		(stroke
@@ -294,4 +304,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/library/Warner_Consulting/Texas Instruments/TLV76050DBZR/TLV76050DBZR Step/TLV76050DBZR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
 )

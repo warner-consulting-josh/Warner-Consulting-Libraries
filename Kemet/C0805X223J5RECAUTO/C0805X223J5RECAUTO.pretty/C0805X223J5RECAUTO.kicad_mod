@@ -301,7 +301,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Josh/Desktop/Warner-Consulting-Libraries/Samsung/CL21B104KBCNNNC/CL21B104KBCNNNC Step/CAP_CL21_SAM.step"
+	(model "C:/Users/Josh/Desktop/Warner-Consulting-Libraries/Kemet/C0805X223J5RECAUTO/C0805X223J5RECAUTO Step/C0805X223J5RECAUTO.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -309,7 +309,7 @@
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 -0 -0)
 		)
 	)
 )

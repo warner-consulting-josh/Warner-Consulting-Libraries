@@ -36,7 +36,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://yageogroup.com/content/datasheet/asset/file/KEM_C1090_X7R_ESD"
+		(property "Datasheet" "C0805X223J5RECAUTO"
 			(at 0.508 -8.382 0)
 			(effects
 				(font
@@ -46,8 +46,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 0805 22NF 50V X7R 5%"
-			(at 4.064 -12.446 0)
+		(property "Description" ""
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)

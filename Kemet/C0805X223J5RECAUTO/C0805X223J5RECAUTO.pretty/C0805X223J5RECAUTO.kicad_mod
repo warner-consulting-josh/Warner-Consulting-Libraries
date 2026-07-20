@@ -1,9 +1,9 @@
-(footprint "CAP_CL21_SAM"
+(footprint "C0805X223J5RECAUTO"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(layer "F.Cu")
-	(tags "CL21B104KBCNNNC ")
+	(tags "C0805X223J5RECAUTO")
 	(property "Reference" "REF**"
 		(at 2.286 0 270)
 		(unlocked yes)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "CAP_CL21_SAM"
+	(property "Value" "C0805X223J5RECAUTO"
 		(at 0 1.27 0)
 		(unlocked yes)
 		(layer "F.Fab")

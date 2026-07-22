@@ -192,7 +192,7 @@
 		(uuid "edc1b645-665c-49b3-ba53-d46b9449dd82")
 	)
 	(embedded_fonts no)
-	(model "${KIPRJMOD}/library/Warner_Consulting/Vishay/CRCW08051K00FKEA/CRCW08051K00FKEA Step/CRCW08051K00FKEA.step"
+	(model "${KIPRJMOD}/library/Warner_Consulting/Vishay/CRCW080510K0FKEA/CRCW080510K0FKEA Step/CRCW080510K0FKEA.step"
 		(offset
 			(xyz 0 0 -0.02)
 		)
